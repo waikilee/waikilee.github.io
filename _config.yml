@@ -1,0 +1,5 @@
+title: waiki.lee.github.io
+description: Trying to setup a Jerkyl Page
+baseurl: "" # for GitHub Pages project site, use "/repo-name"
+url: "https://waikilee.github.io"
+theme: minima

@@ -1,0 +1,28 @@
+# Jekyll build artifacts
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ruby-related
+*.gem
+*.rbc
+.bundle/
+vendor/
+Gemfile.lock
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.vscode/
+
+# Environment files
+.env
+.env.*
